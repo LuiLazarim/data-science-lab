@@ -1,0 +1,1 @@
+"print('Analisando dados...')" 
